@@ -1,5 +1,5 @@
 # ReviewSense-AI-Customer-Feedback-Intelligence-Platform
-## What is it?
+### What is it?
 
 Imagine a company receives 50,000 customer reviews.
 
